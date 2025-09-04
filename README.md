@@ -14,13 +14,6 @@ The new version of my **personal portfolio website**, currently in its **early s
 - Continuous deployment via Vercel  
 
 
-### 🎵 [Beats n Banters](https://github.com/starwarsman715/Beats-n-Banters)  
-A **Spotify playlist generator** built for CS 411 that creates playlists from randomly generated quotes—each word becomes a song, resulting in unique and fun playlists.  
-- **Frontend**: Next.js, TypeScript, Ant Design, CSS Modules  
-- **Backend**: Express.js, MongoDB, Mongoose  
-- **Spotify API** integration for authentication and playlist creation  
-
-
 ### 🏡 [CS 506 Final Project – Housing Price Prediction](https://github.com/starwarsman715/CS_506_Final_Project)  
 A **machine learning project** focused on predicting housing prices using real estate data scraped from Redfin.  
 - Implemented **regression models** (Linear, Random Forest)  
@@ -32,7 +25,14 @@ A **machine learning project** focused on predicting housing prices using real e
 A **React-based portfolio website** showcasing my photography collections from Boston, Madrid, Montmeló, and more.  
 - Smooth animations and parallax scrolling  
 - Lightbox image viewing with keyboard/touch navigation  
-- Responsive design with CSS Modules and lazy loading  
+- Responsive design with CSS Modules and lazy loading
+
+
+### 🎵 [Beats n Banters](https://github.com/starwarsman715/Beats-n-Banters)  
+A **Spotify playlist generator** built for CS 411 that creates playlists from randomly generated quotes—each word becomes a song, resulting in unique and fun playlists.  
+- **Frontend**: Next.js, TypeScript, Ant Design, CSS Modules  
+- **Backend**: Express.js, MongoDB, Mongoose  
+- **Spotify API** integration for authentication and playlist creation   
 
 
 ##  Skills  
